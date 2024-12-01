@@ -1,0 +1,1 @@
+{"TestTable": {"name": "TestTable", "schema": {"fields": [{"name": "id", "data_type": "int"}, {"name": "name", "data_type": "str"}, {"name": "interval", "data_type": "realInvl"}]}, "rows": [{"id": 1, "name": "Test", "interval": {"start": 1.0, "end": 5.0}}]}}
